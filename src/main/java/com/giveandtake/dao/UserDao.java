@@ -2,7 +2,7 @@ package com.giveandtake.dao;
 
 import java.util.List;
 
-import com.giveandtakemodel.User;
+import com.giveandtake.model.User;
 
 public interface UserDao {
 	

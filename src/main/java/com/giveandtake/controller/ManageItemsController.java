@@ -11,7 +11,7 @@ import com.giveandtake.dao.ItemDao;
 import com.giveandtake.dao.NotificationDao;
 import com.giveandtake.daoimpl.ItemDaoImpl;
 import com.giveandtake.daoimpl.NotificationDaoImpl;
-import com.giveandtakemodel.Item;
+import com.giveandtake.model.Item;
 
 @Controller
 public class ManageItemsController {

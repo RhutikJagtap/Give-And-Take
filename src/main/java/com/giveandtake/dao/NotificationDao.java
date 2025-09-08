@@ -2,8 +2,8 @@ package com.giveandtake.dao;
 
 import java.util.List;
 
-import com.giveandtakemodel.Notification;
-import com.giveandtakemodel.User;
+import com.giveandtake.model.Notification;
+import com.giveandtake.model.User;
 
 public interface NotificationDao {
     public void addNotification(int userId, String message, String type);

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<%@page import="com.giveandtakemodel.User"%>
+<%@page import="com.giveandtake.model.User"%>
 <%@page import="java.util.List"%>
 <html lang="en">
 <head>

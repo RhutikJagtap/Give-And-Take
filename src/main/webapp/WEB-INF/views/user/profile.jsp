@@ -1,4 +1,4 @@
-<%@ page import="com.giveandtakemodel.User"%>
+<%@ page import="com.giveandtake.model.User"%>
 <%
 User user = (User) session.getAttribute("user");
 if (user == null) {

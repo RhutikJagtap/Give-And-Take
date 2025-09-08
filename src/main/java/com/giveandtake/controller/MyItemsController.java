@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import com.giveandtake.dao.ItemDao;
 import com.giveandtake.daoimpl.ItemDaoImpl;
-import com.giveandtakemodel.Item;
-import com.giveandtakemodel.User;
+import com.giveandtake.model.Item;
+import com.giveandtake.model.User;
 
 import jakarta.servlet.http.HttpSession;
 

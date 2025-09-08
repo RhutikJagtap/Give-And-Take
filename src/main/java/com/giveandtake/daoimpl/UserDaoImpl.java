@@ -9,7 +9,7 @@ import org.hibernate.cfg.Configuration;
 import org.hibernate.query.Query;
 
 import com.giveandtake.dao.UserDao;
-import com.giveandtakemodel.User;
+import com.giveandtake.model.User;
 
 public class UserDaoImpl implements UserDao{
 	

@@ -9,8 +9,8 @@ import org.hibernate.cfg.Configuration;
 
 import com.giveandtake.dao.NotificationDao;
 import com.giveandtake.dao.UserDao;
-import com.giveandtakemodel.Notification;
-import com.giveandtakemodel.User;
+import com.giveandtake.model.Notification;
+import com.giveandtake.model.User;
 
 public class NotificationDaoImpl implements NotificationDao {
 

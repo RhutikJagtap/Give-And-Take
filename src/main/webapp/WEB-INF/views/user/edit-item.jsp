@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<%@page import="com.giveandtakemodel.Item"%>
+<%@page import="com.giveandtake.model.Item"%>
 <html lang="en">
 <head>
 <meta charset="UTF-8">

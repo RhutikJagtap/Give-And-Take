@@ -1,5 +1,5 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java"%>
-<%@ page import="com.giveandtakemodel.Notification"%>
+<%@ page import="com.giveandtake.model.Notification"%>
 <%@ page import="java.util.List"%>
 <!DOCTYPE html>
 <html lang="en">

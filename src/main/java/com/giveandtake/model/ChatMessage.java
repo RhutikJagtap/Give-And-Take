@@ -1,4 +1,4 @@
-package com.giveandtakemodel;
+package com.giveandtake.model;
 
 public class ChatMessage {
     private String role;

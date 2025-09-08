@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.giveandtake.dao.ItemDao;
 import com.giveandtake.daoimpl.ItemDaoImpl;
-import com.giveandtakemodel.Item;
+import com.giveandtake.model.Item;
 
 @Controller
 public class BrowseItemsController {

@@ -9,7 +9,7 @@ import org.hibernate.cfg.Configuration;
 import org.hibernate.query.Query;
 
 import com.giveandtake.dao.ItemDao;
-import com.giveandtakemodel.Item;
+import com.giveandtake.model.Item;
 
 public class ItemDaoImpl implements ItemDao {
 

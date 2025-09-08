@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import com.giveandtake.dao.NotificationDao;
 import com.giveandtake.daoimpl.NotificationDaoImpl;
-import com.giveandtakemodel.Notification;
-import com.giveandtakemodel.User;
+import com.giveandtake.model.Notification;
+import com.giveandtake.model.User;
 
 import jakarta.servlet.http.HttpSession;
 

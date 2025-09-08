@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 
 import com.giveandtake.dao.UserDao;
 import com.giveandtake.daoimpl.UserDaoImpl;
-import com.giveandtakemodel.User;
+import com.giveandtake.model.User;
 
 @Controller
 public class ProfileController {
